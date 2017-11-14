@@ -13,7 +13,7 @@
     </head>
     
         <%@ taglib uri="WEB-INF/tlds/mytags.tld" prefix="m" %>  
-        <m:hello name="Bharat"></m:hello>
+        <m:hello name="JUSTIN"></m:hello>
         <m:choco texture="Chewy"></m:choco>
         <m:choco texture="Crunchy"></m:choco> 
     
